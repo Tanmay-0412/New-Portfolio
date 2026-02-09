@@ -5,7 +5,7 @@ export const DESIGNATION = `Software Engineer `;
 export const DETAILS = {
   Residence: 'Santacruz',
   City: 'Mumbai',
-  Age: '23',
+  Age: '24',
 };
 
 export const SKILLS = [
