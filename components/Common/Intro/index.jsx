@@ -30,7 +30,7 @@ const Intro = () => {
         <Skills />
         <Tools />
         <Contact />
-        <ProjectCard/>
+        {/* <ProjectCard/> */}
         <Download icon={<FaDownload />} />
       </div>
 

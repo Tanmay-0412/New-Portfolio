@@ -19,7 +19,7 @@ const Nav = ({ setIsOpen, isOpen }) => {
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/contact'} NavIcon={<FaHandshake />} NavText={'Contact'} />
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/background'} NavIcon={<HiIdentification />} NavText={'Background'} />
                     <NavItem setIsOpen={setIsOpen} NavRoute={'/portfolio'} NavIcon={<FiAward />} NavText={'Portfolio'} />
-                    <NavItem setIsOpen={setIsOpen} NavRoute={'/projectcard'} NavIcon={<FiAward />} NavText={'ProjectCard'} />
+                    {/* <NavItem setIsOpen={setIsOpen} NavRoute={'/projectcard'} NavIcon={<FiAward />} NavText={'ProjectCard'} /> */}
                 </div>
             </div>
         </DrawerLayout>

@@ -52,7 +52,6 @@ export const TECH_STACK = [
   'GitHub',
   'Jira',
   'Figma',
-  'Adobe XD',
 ];
 
 export const CONTACTS = {
@@ -60,8 +59,8 @@ export const CONTACTS = {
   PHONE: '+91 8433839478',
 };
 export const SOCIAL_LINKS = {
-  GITHUB: 'https://github.com/osamajavaid',
-  LINKEDIN: 'https://www.linkedin.com/in/iosamajavaid/',
-  TWITTER: 'https://twitter.com/iosamajavaid',
-  FACEBOOK: 'https://www.facebook.com/iosamajavaid',
+  GITHUB: 'https://github.com/Tanmay-0412',
+  LINKEDIN: 'https://github.com/Tanmay-0412',
+  TWITTER: '#',
+  FACEBOOK: 'https://www.linkedin.com/in/tanmay-sawant-453707313/',
 };

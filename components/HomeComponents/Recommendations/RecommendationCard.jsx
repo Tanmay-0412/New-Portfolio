@@ -10,7 +10,7 @@ const RecommendationCard = ({ data }) => {
                 <img src={data?.image} className="absolute z-10 right-10 -top-5 border-Green w-16 h-16  border-[3px] rounded-full m-0" />
                 <div className=" text-2xl text-Snow underline italic">
                     {/* <a href={data?.linkednURL} target="_blank" rel="noreferrer">{data?.name}</a> */}
-                    <Link href='/projectcard'>
+                    <Link href={`/projectcard/${data?.id}`} >
                     <p>{data?.name}</p>
                     </Link>
                 </div>
