@@ -20,7 +20,7 @@ const recommendationCard = [
     id: 2,
     name: 'Hitachi TCO tool',
     image: "images/hitachi.png",
-    designation: 'MERN | JavaScript | Tailwind | Sass | Bootstrap',
+    designation: 'MERN | JavaScript | Tailwind | Excel calculation | Bootstrap',
     view: "Built a Total Cost of Ownership analysis tool to compare transformer designs based on cost, energy losses, GHG emissions, IRR, and payback period.Enabled evaluation of multiple transformer units under various decarbonization scenarios, supporting data-driven engineering decisions.",
     // linkednURL: "https://www.linkedin.com/in/nasirkhan22/"
   },
@@ -30,6 +30,14 @@ const recommendationCard = [
     image: "images/loankhata.ico",
     designation: 'Role-Based Permission Access-Control | React.js | Authentication & Authorization',
     view: "Developed end-to-end loan application workflows including OTP authentication, PAN/Aadhaar verification, bank validation, KFS generation, and e-signature. with a focus on performance optimization and reliability.Designed optimized multi-step user journeys to improve conversion rates, compliance, and user experience.",
+    // linkednURL: "https://www.linkedin.com/in/muhammadullahafridi/"
+  },
+  {
+    id: 4,
+    name: 'Transaction Stack - Merchant Portal',
+    image: "images/txnstack.png",
+    designation: 'Anylatical Dashboard | REST APIs | ',
+    view: "Developed a merchant analytics dashboard displaying payment success rates, orders, and transaction history.Implemented role-based authentication and real-time transaction status tracking (success, failed, pending).",
     // linkednURL: "https://www.linkedin.com/in/muhammadullahafridi/"
   },
 ]
